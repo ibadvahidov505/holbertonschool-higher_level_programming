@@ -1,5 +1,5 @@
 import sys
-nums=sys.argv
+if __name__ == "__main__":
 k=len(sys.argv)-1
 s=0
 for i in range (1,k+1):
