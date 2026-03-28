@@ -1,5 +1,4 @@
-#!/usr/bin/python3
-def square_matrix_simple(matrix=[]):
+#!/usr/bin/python3def square_matrix_simple(matrix=[]):
     newone=[]
     for row in matrix:
         newrow=[]
