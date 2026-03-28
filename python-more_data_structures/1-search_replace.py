@@ -7,7 +7,5 @@ def search_replace(my_list, search, replace):
             new_list.append(i)
         else:
             new_list.append(i)
-    print(new_list)
-    print(my_list)
-my_list = [1, 2, 3, 4, 5, 4, 2, 1, 1, 4, 89]
-new_list = search_replace(my_list, 2, 89)
+    return (new_list)
+    return (my_list)
